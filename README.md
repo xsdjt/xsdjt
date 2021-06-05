@@ -1,10 +1,4 @@
-### Hi there 👋
-
-##### myBlog：[myBlog](https://xsdjt.vercel.app/)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xsdjt&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-##### 持续学习中，希望不吝赐教（鞠躬）
-<img src="https://github.com/chloeeee72/chloeeee72/blob/master/jugong.gif_jpg" alt="" title="" width="220" height="220" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xsdjt&show_icons=true&theme=tokyonight)
 
 <!---
 xsdjt/xsdjt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +14,12 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Hi there 👋
+
+##### myBlog：[myBlog](https://xsdjt.vercel.app/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xsdjt&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+##### 持续学习中，希望不吝赐教（鞠躬）
+<img src="https://github.com/chloeeee72/chloeeee72/blob/master/jugong.gif_jpg" alt="" title="" width="220" height="220" />
 --->
