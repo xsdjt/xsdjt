@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xsdjt&show_icons=true&theme=tokyonight)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xsdjt&show_icons=true&theme=tokyonight)](https://github.com/xsdjt)
 
 <!---
 xsdjt/xsdjt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
