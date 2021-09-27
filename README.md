@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning OS.
-- 📫 How to reach me: zhouguoqiang2015@outlook.com
+- 📫 zhouguoqiang2015@outlook.com
 
 <!---
 - 🔭 I’m currently working on 
