@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning CS.
-- 📫 zhouguoqiang2015@outlook.com
+- 📫 ncuer-software@qq.com
 
 <!---
 - 🔭 I’m currently working on 
